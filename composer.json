@@ -1,7 +1,7 @@
 {
     "name": "khazawy/yamak-auto-assign",
-    "type": "project",
-    "description": "Your Laravel Project Description",
+    "description": "Auto-assigning drivers package for Laravel",
+    "type": "library",
     "keywords": [
         "laravel",
         "php"
